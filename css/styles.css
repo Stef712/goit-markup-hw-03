@@ -106,8 +106,8 @@ body {
 }
 
 .section {
-  padding-top: 94px;
-  padding-bottom: 94px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 /* Header Section */
@@ -304,7 +304,7 @@ body {
 }
 
 .portfolio {
-  padding: 120px 0 120px;
+  padding: 96px 0 120px;
 }
 
 .portfolio-buttons-list {
