@@ -150,11 +150,6 @@ body {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.padding-top-menu {
-  padding: 24px 0;
-  display: inline-block;
-}
-
 .header-navigation {
   display: flex;
   align-items: center;
