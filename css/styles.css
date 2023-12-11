@@ -301,6 +301,7 @@ body {
 .portfolio-buttons:focus {
   background-color: #404bbf;
   color: #ffffff;
+  border: 1px solid transparent;
 }
 
 .portfolio {
