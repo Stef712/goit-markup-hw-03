@@ -169,6 +169,11 @@ body {
   padding: 24px 0;
 }
 
+.logo-list {
+  padding: 24px 0;
+  display: inline-block;
+}
+
 /* Main Section */
 
 .main-background {
