@@ -143,12 +143,16 @@ body {
 .header-container {
   display: flex;
   align-items: center;
-  padding: 24px 0px 24px 0px;
 }
 
 .header {
   padding: 24px 0px 24px 0px;
   border-bottom: 1px solid #e7e9fc;
+}
+
+.padding-top-menu {
+  padding: 24px 0;
+  display: inline-block;
 }
 
 .header-navigation {
